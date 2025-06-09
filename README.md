@@ -45,7 +45,7 @@ To explore the dashboard:
 
 ## 🙌 Acknowledgements
 
-Made with ❤️ by [Vishal](https://github.com/heyvishal08)
+Made with ❤️ by Vishal - https://github.com/heyvishal08
 
 ---
 
