@@ -88,5 +88,20 @@ These aren’t just charts — they fuel strategic action:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/blinkit-sales-insight.git
+   git clone https://github.com/heyvishal08/blinkit-sales-insight.git
    cd blinkit-sales-insight
+
+---
+
+## 👤 Author
+
+Vishal Gupta
+[📫 LinkedIn](https://www.linkedin.com/in/itsvishal08/) | [📧 Gmail](mailto:itzmevishal08@gmail.com)
+
+---
+
+## ⚠️ Copyright Notice
+
+This project and its contents are the intellectual property of Vishal Gupta.
+
+All rights reserved. You may not reuse, reproduce, or redistribute this project, in part or in full, for commercial or academic purposes without explicit permission.
