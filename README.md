@@ -1,12 +1,3 @@
-![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)
-
-> ⚠️ **Disclaimer:**  
-> This project is part of my personal data analytics portfolio.  
-> You are welcome to view it, but **reuse, modification, redistribution, or publishing** of any part (including `.pbix` or `.csv` files) is **strictly prohibited**.  
-> Protected under [CC BY-NC-ND 4.0 License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
-
----
-
 # 🛒 Blinkit Sales Insight – Data Analytics Dashboard
 
 > **Category:** Data Analytics · Business Intelligence  
@@ -89,20 +80,12 @@ These aren’t just charts — they fuel strategic action:
 
 ---
 
-## ⚙️ Installation Instructions
-
-### 🐍 Set Up Python Environment
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/heyvishal08/blinkit-sales-insight.git
-   cd blinkit-sales-insight
-
----
-
 ## 👤 Author
 
 Vishal Gupta
-[📫 LinkedIn](https://www.linkedin.com/in/itsvishal08/) | [📧 Gmail](mailto:itzmevishal08@gmail.com)
+[📫 LinkedIn](https://www.linkedin.com/in/itsvishal08/)  
+[📧 Gmail](mailto:itzmevishal08@gmail.com)
 
 ---
+
+> “From scattered transactions to strategic transformation — this dashboard helps decode Blinkit’s sales story, one insight at a time.”
