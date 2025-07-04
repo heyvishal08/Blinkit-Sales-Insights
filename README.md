@@ -83,6 +83,7 @@ These aren’t just charts — they fuel strategic action:
 ## 👤 Author
 
 Vishal Gupta
+
 [📫 LinkedIn](https://www.linkedin.com/in/itsvishal08/)  
 [📧 Gmail](mailto:itzmevishal08@gmail.com)
 
